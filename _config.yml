@@ -140,20 +140,22 @@ navbar-var-length: false
 # footer-link-col: "#404040"
 # footer-hover-col: "#0085A1"
 
-navbar-col: "#151515"
-navbar-text-col: "#bfbfbf"
-navbar-border-col: "#222222"
-page-col: "#000000"
-text-col: "#bfbfbf"
-# link-col: "#008AFF"
-link-col: "#ff7500"
-# hover-col: "#0085A1"
-hover-col: "#ff7a5e"
-footer-col: "#151515"
-footer-text-col: "#888888"
-footer-link-col: "#bfbfbf"
-# footer-hover-col: "#0085A1"
-footer-hover-col: "#ff7a5e"
+theme: minima
+
+# navbar-col: "#151515"
+# navbar-text-col: "#bfbfbf"
+# navbar-border-col: "#222222"
+# page-col: "#000000"
+# text-col: "#bfbfbf"
+# # link-col: "#008AFF"
+# link-col: "#ff7500"
+# # hover-col: "#0085A1"
+# hover-col: "#ff7a5e"
+# footer-col: "#151515"
+# footer-text-col: "#888888"
+# footer-link-col: "#bfbfbf"
+# # footer-hover-col: "#0085A1"
+# footer-hover-col: "#ff7a5e"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -219,7 +221,7 @@ footer-hover-col: "#ff7a5e"
 #utterances:
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
+  # theme: Hacker # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
