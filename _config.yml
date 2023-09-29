@@ -20,12 +20,15 @@ author: "Jason L. Weber"
 ###############################################
 
 navbar-links:
-  Teaching: "teaching"
+  Teaching:
+    - Teaching Philosophy: "teaching-philosophy"
+    - Teaching Experience: "teaching-experience"
+    - Teaching Portfolio: "assets/pdf/teaching-portfolio.pdf"
   Research: "research"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   Projects: "projects"
-  CV/Resume: "cv-resume"
+  CV/Resume: "assets/pdf/cv-resume.pdf"
 
 ################
 # --- Logo --- #
@@ -54,28 +57,28 @@ social-network-links:
   email: "weberjl@uci.edu"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
+  telephone: +15039229180
+  ORCID: 0000-0003-4520-3648
+  google-scholar: citations?hl=en&user=akSV798AAAAJ
   github: "jasonweber99"
+  linkedin: "jasonweber99"
   twitter: "jasonweber99"
+  discord: "users/vexmilkpudding"
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "jasonweber99"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: +15039229180
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0003-4520-3648
-  google-scholar: citations?hl=en&user=akSV798AAAAJ
-  discord: "users/vexmilkpudding"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
